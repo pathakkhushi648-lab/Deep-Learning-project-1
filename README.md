@@ -597,8 +597,5 @@ This project is intended for **educational and research purposes only**. It is n
 
 **Swarna Pathak**
 
-Data Analyst | Python | SQL | Power BI | Machine Learning | Deep Learning
-
-GitHub: Add your GitHub profile URL
-
-LinkedIn: Add your LinkedIn profile URL
+ **Project Demo: Breast Cancer Classification Using Deep Learning**
+Video link :(https://drive.google.com/file/d/14wmZ0exJyheH1heVeQvh_nym8dXRqdWZ/view?usp=sharing)
